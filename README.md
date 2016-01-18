@@ -2,6 +2,7 @@
 
 
 * [jstat](http://jstat.github.io/)
+> jStat is a statistical library written in JavaScript that allows you to perform advanced statistical operations without the need of a dedicated statistical language (e.g. MATLAB or R).
 
 * [gauss](https://github.com/wayoutmind/gauss)
 > Evented, asynchronous, and fast, Node.js is an attractive platform for data mining, statistics, and data analysis. Gauss makes it easy to calculate and explore data through JavaScript, both on Node.js and within the web browser.
